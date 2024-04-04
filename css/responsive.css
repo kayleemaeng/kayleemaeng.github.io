@@ -12,9 +12,6 @@
 		padding: 16px 36px;
 	}
 	
-	.contend-area .experience-section {
-		background: url('../images/arrowBG.png') no-repeat 48% -1px;
-	}
 }
 
 @media only screen and (max-width: 1024px){
@@ -23,14 +20,9 @@
 		left: 20%;
 	}
 	
-	.contend-area .experience-section {
-		background: url('../images/arrowBG.png') no-repeat 48% -2px;
-	}
-	
 	.contend-area .experience-section .demo-button {
 		left: 39%;
 	}
-	
 	.w-45 {
 		width: 48%;
 	}
@@ -226,12 +218,11 @@
 	}
 	
 	.contend-area .about-section {
-		background: #e8b968 url('../images/ipadBG.png') no-repeat right  52px/ 46%;
+		background: #e8b968;
 		padding: 70px 0;
 	}
 	
 	.contend-area .section {
-		background: url('../images/tBG01.jpg') no-repeat left center / cover;
 		padding: 10px 0;
 	}
 	
@@ -343,10 +334,6 @@
 	.contend-area .more-review {
 		left: 43%;
 		width: 20%;
-	}
-	
-	.contend-area .experience-section {
-		background: url('../images/arrowBG.png') no-repeat 51% -2px;
 	}
 	
 	.w-45 {
@@ -502,13 +489,13 @@
 		padding: 16px 8px;
 	}
 	.contend-area .about-section {
-		background: #e8b968 url('../images/ipadBG.png') no-repeat 200px  108px/ 65%;
+		background: #e8b968;
 		padding: 40px 0;
 	}
 }
 @media only screen and (max-width: 375px) {
 	.contend-area .about-section {
-		background: #e8b968 url('../images/ipadBG.png') no-repeat 173px  124px/ 75%;
+		background: #e8b968;;
 		padding: 40px 0;
 	}
 	
@@ -540,7 +527,7 @@
 
 @media only screen and (max-width: 360px) {
 	.contend-area .about-section {
-		background: #e8b968 url('../images/ipadBG.png') no-repeat 187px  108px/ 65%;
+		background: #e8b968;
 		padding: 40px 0;
 	}
 	

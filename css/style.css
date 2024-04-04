@@ -71,7 +71,7 @@ body {
  */
 .header-area {
     background: url('../images/FullSizeRender_2.jpg') no-repeat center center / cover;
-	padding: 60px 0;
+	padding: 80px 0;
 	
 }
 .header-area .menu-area {
@@ -110,9 +110,9 @@ body {
 
 .header-area .menu-area nav > ul > li > a:hover {
     font-weight: bold;
-    color: #e2b17b;
+    color: #db77c7;
     background: #54586352;
-    border-bottom: 2px solid #e2b17b;
+    border-bottom: 2px solid #db77c7;
 }
 
 .header-area .menu-area ul ul {
@@ -143,7 +143,7 @@ body {
 }
 
 .header-area .menu-area nav ul ul li a:hover {
-    color: #27c4f4;
+    color: #db77c7;
     background: #6a789d52;
 }
 
@@ -225,7 +225,7 @@ body {
 }
 
 .header-area .button a{
-    background: #7accc8;
+    background: #f3cae3;
     padding: 22px 80px;
     font-size: 22px;
     letter-spacing: 2px;
@@ -236,11 +236,11 @@ body {
 }
 
 .header-area .button a:hover{
-    background: #e8b968;
+    background: #db77c7;
 }
 
 .contend-area .about-section {
-    background: #e8b968 url('../images/ipadBG.png') no-repeat right  65px/ 50%;
+    background: #f3cae3;
     overflow: hidden;
     color: #FFF;
 	padding: 100px 0;
@@ -251,11 +251,11 @@ body {
 	font-size: 55px;
 	line-height: 1.1;
 	margin: 0;
-	font-weight: 100;
+	font-weight: 400;
 }
 
 .contend-area .about-section .about-content-section {
-	width: 63%;
+	width: 100%;
 }
 
 .contend-area .about-section p {
@@ -278,12 +278,13 @@ body {
 }
 
 .contend-area .about-section a:hover {
-	color: #a58347;
-	border-color: #a58347;
+	color: #db77c7;
+	border-color: #db77c7;
 }
 
 .contend-area .experience-title-section {
-	background: url('../images/tBG01.jpg') no-repeat left center / cover;
+	background: url('../images/IMG_6599.jpg') no-repeat left center / cover;
+	color: #f3cae3;
 	padding: 55px 0;
 }
 
@@ -294,14 +295,14 @@ body {
 
 .contend-area .self-image {
 	position: relative;
-	left: 44%;
+	left: 10%;
 	margin-top: 55px;
 }
 
 .self-image img{
-	width: 200px; /* Adjust this value as needed */
+	width: 230px; /* Adjust this value as needed */
     height: auto; /* Maintain aspect ratio */
-	border-radius: 50%;
+	border-radius: 90%;
 }
 
 .contend-area .client-review h1{
@@ -324,21 +325,20 @@ body {
 }
 
 .contend-area .experience-section {
-    background: url('../images/arrowBG.png') no-repeat 49.5% -1px;
     position: relative;
     padding: 70px 0;
 }
 
 .contend-area .experience-section h6 {
-	font-size: 15px;
+	font-size: 20px;
 	margin:0;
 	margin-bottom: 20px;
-	color: #9197a8;
+	color: #f3cae3;
 	font-weight: 400;
 }
 
 .contend-area .experience-section p {
-	color: #7a8387;
+    color: #060405;
     font-size: 16px;
     word-spacing: 2px;
     line-height: 30px;
@@ -434,7 +434,7 @@ body {
 .contend-area .color-content .color-title p{
     padding: 16px 20px 40px 40px;
     font-style: italic;
-    color: #7a8387;
+    color: #db77c7;
     font-size: 16px;
 	margin: 0;
 	font-weight: 300;
@@ -489,7 +489,7 @@ body {
  */
 
 .footer-area {
-	background: #7accc8;
+    background: #f3cae3;
 	padding: 70px 0;
 }
 
@@ -538,7 +538,7 @@ body {
 } 
 
 .footer-area .footer-menus a:hover {
-	color: #5db3af;
+	color: #f3cae3;
 } 
 
 .footer-area .logo {
@@ -566,11 +566,11 @@ body {
 }
 
 .footer-area .copyright a{
-    color: #42817e;
+    color: #db77c7;
 	text-decoration: none;
 	font-weight: 300;
 }
 
 .footer-area .copyright a:hover{
-    color: #2f5c5a;
+    color: #ffffff;
 }
